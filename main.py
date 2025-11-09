@@ -12,7 +12,4 @@ barra_menus.add_cascade(label='menu', menu=menu)
 menu.add_command(label='Opción 1', command=print("hola mundo"))
 menu.add_command(label='Opción 2', command=print("Adios"))
 
-
 window.mainloop()
-
-
